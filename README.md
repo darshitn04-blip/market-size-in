@@ -23,4 +23,4 @@ Population is based on Census 2011 urban-agglomeration data and projected using 
 
 Before a real investment decision, replace proxy fields with licensed/current city-level data and validate each selected micro-market's economics, rider availability, real estate, and competitor coverage.
 
-Streamlit Link : https://qcommerce-analysis-2026.streamlit.app
+Streamlit Link : [https://qcommerce-analysis-2026.streamlit.app](https://qcommerce-analysis-2026.streamlit.app/)
