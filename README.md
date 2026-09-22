@@ -22,3 +22,5 @@ Open `http://localhost:8501`.
 Population is based on Census 2011 urban-agglomeration data and projected using the stated growth-rate model. Income and internet access are state-proxy inputs, deliberately labelled as such. Competitor stores start at zero and must be uploaded as a verified `city,competitor_stores` CSV; no fictional scraping data is included.
 
 Before a real investment decision, replace proxy fields with licensed/current city-level data and validate each selected micro-market's economics, rider availability, real estate, and competitor coverage.
+
+Streamlit Link : https://qcommerce-analysis-2026.streamlit.app
